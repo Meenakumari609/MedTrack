@@ -49,6 +49,10 @@ MedTrack is a comprehensive and user-friendly healthcare web application designe
    python app.py
 ### 📄 Documents
 - [Project Report]([docs/Project_Report.pdf](https://drive.google.com/file/d/1n-Hwwn5YMN9_Ezx7hDksmABa__UbrGj-/view?usp=drivesdk))
+- ## 📄 Project Report (PDF)
+
+[Click here to view/download the report](https://drive.google.com/file/d/1n-Hwwn5YMN9_Ezx7hDksmABa__UbrGj-/view?usp=drivesdk)
+
 - [Presentation Slides](docs/Presentation.pptx)
 
 ### 🎥 Demo Video
