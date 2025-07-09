@@ -47,3 +47,9 @@ MedTrack is a comprehensive and user-friendly healthcare web application designe
    cd medtrack
    pip install flask flask_sqlalchemy xhtml2pdf
    python app.py
+### 📄 Documents
+- [Project Report]([docs/Project_Report.pdf](https://drive.google.com/file/d/1n-Hwwn5YMN9_Ezx7hDksmABa__UbrGj-/view?usp=drivesdk))
+- [Presentation Slides](docs/Presentation.pptx)
+
+### 🎥 Demo Video
+- [Watch on Google Drive](https://drive.google.com/file/d/1mz-YNsXVdbEcknFR3HO141HQXCtSyFlb/view?usp=drivesdk)
